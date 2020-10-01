@@ -1,4 +1,4 @@
-# PyTorchBasics_LinearReg
+# PyTorch basics and Gradient Descent
 This notebook includes 
 1. Pytorch basics - Create Tensors, convert ndarray to tensors, change dtype of tensor, Matrix multiplication vs Element-wise multiplication
 2. Linear Regression using basic Tensor operation. Interpretation on applying Gradient Descent , Stochaistic Gradient descent
